@@ -11,6 +11,6 @@ A collection of my OBS scripts.
 ## Installation
 1. Download the script you want to use
 2. Open OBS Studio
-3. Go to **Tools** → **Scripts**
+3. Go to **Tools** -> **Scripts**
 4. Click the **+** button and select the downloaded `.lua` file
 5. Configure settings as needed
